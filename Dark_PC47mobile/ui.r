@@ -62,7 +62,7 @@ shinyUI(
     #theme = shinytheme("simplex"),
     #theme = shinytheme("sandstone"),
     #theme = shinytheme("flatly"),
-    titlePanel("Inteligência Artificial p/ Classificação de Textos"),
+    titlePanel("Demonstração: Modelo de Intelig. Artificial p/ Classificação de Textos"),
     
     #sidebarPanel( ),
     
@@ -119,7 +119,7 @@ shinyUI(
           img(src = "https://logodownload.org/wp-content/uploads/2018/02/ibge-logo.png", height = 38),
           #https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo-ence.svg
           #img(src = "https://opensource.org/files/osi_standard_logo_0.png", height = 60)
-          h6(helpText("Versão atual V.4.7.2 (mobile) em 03/06/2019 às 12h15."))
+          h6(helpText("Versão atual V.4.7.2 em 03/06/2019 às 12h15."))
         )
       ),
       
